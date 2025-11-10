@@ -38,9 +38,8 @@
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | 🧠 **AI Resume Q&A Assistant** | GPT-powered app to answer questions from uploaded resumes using FAISS embeddings and LangChain | FastAPI · FAISS · LangChain · OpenAI · MongoDB |
-| 🧮 **Data Dashboard Automation** | Automated KPI dashboard using SQL and Power BI for real-time monitoring | Power BI · SQL · Excel · Python |
 | ⚙️ **User Auth System API** | Login/Signup API with JWT, MongoDB, custom exception handling & decorators | FastAPI · MongoDB · Pydantic |
-| 🧭 **Research Insights Generator** | Automated research report builder using Gradio + GPT | Python · Gradio · LangChain · OpenAI |
+| 🧭 **Research Insights Generator** | Automated research report builder using Gradio + GPT | Python · Gradio · LangGraph · OpenAI |
 
 ---
 
