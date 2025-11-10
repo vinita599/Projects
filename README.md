@@ -1,2 +1,3 @@
 # Projects
-Will be updating my personal projects here
+Hi, This is Vinita. Keep scrolling to find some cool personal projects here
+
