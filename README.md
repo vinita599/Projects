@@ -10,8 +10,8 @@
 - ☁️ Currently learning **Docker, AWS (EC2, ECS)**, and **end-to-end app deployment**  
 - 👶 Working mom balancing tech growth with curiosity and consistency 💪  
 - 💬 Ask me about: `Python`, `FastAPI`, `LangChain`, `Data Analysis`, `SQL`, `Power BI`  
-- 📫 Reach me at: **vinitak599@gmail.com.com**  
-- 🌐 Connect on [LinkedIn](https://www.linkedin.com/in/vinitakumari)  
+- 📫 Reach me at: **vinitak599@gmail.com**  
+- 🌐 Connect on [LinkedIn]((https://www.linkedin.com/in/vinita-kumari-899b5588/))  
 
 ---
 
@@ -67,8 +67,8 @@ I believe *“Consistency beats intensity.”* — especially when learning AI w
 
 ### 📫 Connect With Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/vinitakumari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vinita.kumari@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="(https://www.linkedin.com/in/vinita-kumari-899b5588/)i"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vinitak599@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
